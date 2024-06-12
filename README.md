@@ -32,3 +32,9 @@ Obrigado por visitar!
 ## 4. Projetos de Pesquisa
 - [Estudo sobre Ansiedade em Estudantes Universitários](./pesquisa/ansiedade_estudantes.md)
 - [Impacto da Meditação na Saúde Mental](./pesquisa/meditacao_saude_mental.md)
+
+##
+
+Para mais informações, entre em contato:
+- [GitHub](https://github.com/Samara4ry)
+- [E-mail](mailto:samaranunes062004@gmail.com)
